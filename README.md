@@ -5,16 +5,7 @@ Ya que llegaste hasta acá dejame contarte un poco sobre mí.
 
 Soy un apasionado por la tecnología, me encanta seguir descubriendo 
 
-Que trabajo en Experiencia de Usuario, ya lo habras sospechado. Lo que seguro no sospechaste es por qué diseño experiencias.
 
-Creo que un mundo con una comunicación perfecta, sin ruido y con una experiencia única es posible.
-
-Junto con mi equipo nos dimos cuenta que podíamos lograr esto diseñando ecosistemas de comunicación simples de entender y fáciles de usar que permita a tu negocio escuchar lo que tu cliente NECESITA para brindarle ESO QUE ESPERA.
-
-En simples palabras, creamos estrategias de comunicación, diseñamos páginas web, aplicaciones mobile, capacitamos y coacheamos a nuestros clientes.
-
-¡Gracias por leerme! :)
- 
  
 ## About :sunglasses:
 B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
