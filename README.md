@@ -1,4 +1,4 @@
-<!-- ![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/54491030/94375403-c193c900-00e9-11eb-90e2-5e39eedf12ea.png)
+<!--![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/54491030/94375403-c193c900-00e9-11eb-90e2-5e39eedf12ea.png)
 ### !Hola! ¿Cómo estás? 👋
 
 Ya que llegaste hasta acá dejame contarte un poco sobre mí.
@@ -6,30 +6,9 @@ Ya que llegaste hasta acá dejame contarte un poco sobre mí.
 Soy un apasionado por la tecnología, me encanta seguir descubriendo 
 
 
- 
-## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
-
 
 ## Tecnologías :fire:
-- Java, Spring Boot, Hibernate
-- MySQL, MongoDB
-- MERN = (MongoDB, Express, ReactJs y NodeJs)
 
-
-
-**Romero-Ezequiel/Romero-Ezequiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <div align="center">
   <h3 align="center">Contacto <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
@@ -50,9 +29,5 @@ Here are some ideas to get you started:
   <br/>
   <br/>
 </p>
-
-
-
-
 
 -->
