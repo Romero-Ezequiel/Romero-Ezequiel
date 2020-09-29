@@ -3,7 +3,8 @@
 
 Ya que llegaste hasta acá dejame contarte un poco sobre mí.
 
-Soy un apasionado por la tecnología, me encanta seguir descubriendo 
+Soy un apasionado por la tecnología, autodidacta  me encanta seguir descubrir sobre sus avances y como impacta en nuestra vida cotidiana. 
+ Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real
 
 
 
@@ -30,4 +31,6 @@ Soy un apasionado por la tecnología, me encanta seguir descubriendo
   <br/>
 </p>
 
+
+¡Gracias por leerme! :)
 -->
