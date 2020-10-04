@@ -1,4 +1,6 @@
 <!-- ![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/54491030/94375403-c193c900-00e9-11eb-90e2-5e39eedf12ea.png)
+-->
+<!--![Romero Ezequiel](https://user-images.githubusercontent.com/54491030/95014753-55502280-061f-11eb-9353-8de17fbbd6db.gif)
 
 ### !Hola! ¿Cómo estás? 👋 
 Ya que llegaste hasta acá dejame contarte un poco sobre mí.
