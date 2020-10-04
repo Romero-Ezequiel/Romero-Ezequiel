@@ -1,12 +1,12 @@
 <!-- ![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/54491030/94375403-c193c900-00e9-11eb-90e2-5e39eedf12ea.png)
 -->
-<!--![Romero Ezequiel](https://user-images.githubusercontent.com/54491030/95014753-55502280-061f-11eb-9353-8de17fbbd6db.gif)
+<!-- ![Romero Ezequiel](https://user-images.githubusercontent.com/54491030/95014753-55502280-061f-11eb-9353-8de17fbbd6db.gif)
 
 ### !Hola! ¿Cómo estás? 👋 
 Ya que llegaste hasta acá dejame contarte un poco sobre mí.
 
 Soy un apasionado por la tecnología, autodidacta me encanta seguir descubrir sobre sus avances y como impacta en nuestra vida cotidiana. 
-Además me fascina explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real
+ Además de fascinarme y explorar nuevas tecnologías para resolver problemas de la vida real, me encanta trabajar en equipo y compartir conocimientos.
 
 ### Tecnologías :fire:
 <code><a href="https://www.javascript.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/54491030/95003306-6d3e8c80-05b4-11eb-9946-18af3fdb07fc.png"></a></code>
