@@ -1,6 +1,6 @@
 <!-- ![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/54491030/94375403-c193c900-00e9-11eb-90e2-5e39eedf12ea.png)
 -->
-<!-- ![Romero Ezequiel](https://user-images.githubusercontent.com/54491030/95014753-55502280-061f-11eb-9353-8de17fbbd6db.gif)
+ ![Romero Ezequiel](https://user-images.githubusercontent.com/54491030/95014753-55502280-061f-11eb-9353-8de17fbbd6db.gif)
 
 ### !Hola! ¿Cómo estás? 👋 
 Ya que llegaste hasta acá dejame contarte un poco sobre mí.
@@ -23,7 +23,7 @@ Soy un apasionado por la tecnología, autodidacta me encanta seguir descubrir so
 <code><a href="https://dotnet.microsoft.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/54491030/95003355-e3db8a00-05b4-11eb-8c15-454284752692.png"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/54491030/95003419-9b709c00-05b5-11eb-832b-2520f4b5ec34.png"></a></code>
 
-<br/><br/>
+<!-- ### Proyectos 💻 -->
 
 
 <div align="center">
@@ -43,7 +43,3 @@ Soy un apasionado por la tecnología, autodidacta me encanta seguir descubrir so
   <br/>
 </p>
 
-
-¡Gracias por leerme! :)
-
--->
