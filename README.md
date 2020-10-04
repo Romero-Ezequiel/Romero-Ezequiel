@@ -5,9 +5,8 @@
 ### !Hola! ¿Cómo estás? 👋 
 Ya que llegaste hasta acá dejame contarte un poco sobre mí.
 
-Soy un apasionado por la tecnología, autodidacta  me encanta seguir descubrir sobre sus avances y como impacta en nuestra vida cotidiana. 
-Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real
-
+Soy un apasionado por la tecnología, autodidacta me encanta seguir descubrir sobre sus avances y como impacta en nuestra vida cotidiana. 
+Además me fascina explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real
 
 ### Tecnologías :fire:
 <code><a href="https://www.javascript.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/54491030/95003306-6d3e8c80-05b4-11eb-9946-18af3fdb07fc.png"></a></code>
