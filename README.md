@@ -1,6 +1,8 @@
-<!-- ![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/54491030/94375403-c193c900-00e9-11eb-90e2-5e39eedf12ea.png)
--->
- ![Romero Ezequiel](https://user-images.githubusercontent.com/54491030/95014753-55502280-061f-11eb-9353-8de17fbbd6db.gif)
+<!-- ![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/54491030/94375403-c193c900-00e9-11eb-90e2-5e39eedf12ea.png)-->
+
+<!-- [Romero Ezequiel](https://user-images.githubusercontent.com/54491030/95014753-55502280-061f-11eb-9353-8de17fbbd6db.gif)-->
+
+![Romero Ezequiel](https://user-images.githubusercontent.com/54491030/101995525-49c94980-3ca9-11eb-8789-0fd78c83b32f.gif)
 
 ### !Hola! ¿Cómo estás? 👋 
 Ya que llegaste hasta acá dejame contarte un poco sobre mí.
