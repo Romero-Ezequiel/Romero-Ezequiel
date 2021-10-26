@@ -18,12 +18,12 @@ Soy un apasionado por la tecnología, autodidacta me encanta seguir descubriendo
 
 <code><a href="https://www.java.com/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://spring.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
-<code><a href="https://hibernate.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<!--code><a href="https://hibernate.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code-->
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-
 <code><a href="https://dotnet.microsoft.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/54491030/95003355-e3db8a00-05b4-11eb-8c15-454284752692.png"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/54491030/95003419-9b709c00-05b5-11eb-832b-2520f4b5ec34.png"></a></code>
+<code><a href="https://angular.io/"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 
 <!-- ### Proyectos 💻 -->
 
