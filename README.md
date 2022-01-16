@@ -4,11 +4,6 @@
 
 ![Romero Ezequiel](https://user-images.githubusercontent.com/54491030/101995525-49c94980-3ca9-11eb-8789-0fd78c83b32f.gif)
 
-### !Hola! ¿Cómo estás? 👋 
-Ya que llegaste hasta acá dejame contarte un poco sobre mí.
-
-Soy un apasionado por la tecnología, autodidacta me encanta seguir descubriendo sobre sus avances y como impacta en nuestra vida cotidiana. 
- Además de fascinarme y explorar nuevas tecnologías para resolver problemas de la vida real, me encanta trabajar en equipo y compartir conocimientos.
 
 ### Tecnologías :fire:
 <code><a href="https://www.javascript.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/54491030/95003306-6d3e8c80-05b4-11eb-9946-18af3fdb07fc.png"></a></code>
